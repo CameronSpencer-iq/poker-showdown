@@ -1,9 +1,11 @@
 # Poker Showdown
+A library for performing a Poker showdown
 
+# Setup
 - The Library was built using .net standard 2.0
 - The CLI application was built using .net core 2.2. In order to build, run & test. Please install the .Net Core 2.2 (v2.2.8) SDK at https://dotnet.microsoft.com/download/dotnet-core/2.2.
 
-# Setup
+# Build
 The fastest way to build, test and run the project is by...
 1. open your favorite terminal & make sure dotnet sdk is avaiable (i.e. `dotnet --version`; version number should show up)
 2. change directory to `<path_to_repo>`
