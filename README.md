@@ -4,6 +4,7 @@ A library for performing a Poker showdown
 # Setup
 - The Library was built using .net standard 2.0
 - The CLI application was built using .net core 2.2. In order to build, run & test. Please install the .Net Core 2.2 (v2.2.8) SDK at https://dotnet.microsoft.com/download/dotnet-core/2.2.
+- Was not able to confirm, but if you're using VS2017 SDK v2.2.110 is the last version supported by VS2017.
 
 # Build
 The fastest way to build, test and run the project is by...
